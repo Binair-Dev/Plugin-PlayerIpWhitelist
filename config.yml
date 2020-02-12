@@ -1,0 +1,9 @@
+Staff:
+  Liste:
+    - Username1
+    - Username2
+    - Username3
+  Ip:
+    Username1: '192.168.0.1'
+    Username2: '192.168.0.1'
+    Username3: '192.168.0.1'
